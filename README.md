@@ -350,4 +350,3 @@ Avoid nulls, type safety.
 
 ---
 
-This README can be directly pushed to your GitHub repository.
